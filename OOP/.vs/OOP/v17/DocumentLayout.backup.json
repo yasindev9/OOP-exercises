@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yasin\\source\\repos\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|c:\\users\\yasin\\source\\repos\\oop\\coll\\collectionprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|solutionrelative:coll\\collectionprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|c:\\users\\yasin\\source\\repos\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|c:\\users\\yasin\\source\\repos\\oop\\banka\\aktifhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|solutionrelative:banka\\aktifhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|c:\\users\\yasin\\source\\repos\\oop\\banka\\banka.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|solutionrelative:banka\\banka.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|c:\\users\\yasin\\source\\repos\\oop\\banka\\itransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|solutionrelative:banka\\itransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|c:\\users\\yasin\\source\\repos\\oop\\banka\\yatirimhesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|solutionrelative:banka\\yatirimhesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|c:\\users\\yasin\\source\\repos\\oop\\banka\\mevduathesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|solutionrelative:banka\\mevduathesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|c:\\users\\yasin\\source\\repos\\oop\\banka\\ibankahesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1006FE-E087-4D82-916A-AC28E9125261}|OOP.csproj|solutionrelative:banka\\ibankahesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin\\source\\repos\\OOP\\COLL\\CollectionProgram.cs",
+              "RelativeDocumentMoniker": "COLL\\CollectionProgram.cs",
+              "ToolTip": "C:\\Users\\Yasin\\source\\repos\\OOP\\COLL\\CollectionProgram.cs",
+              "RelativeToolTip": "COLL\\CollectionProgram.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:17:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AktifHesap.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\AktifHesap.cs",
+              "RelativeDocumentMoniker": "Banka\\AktifHesap.cs",
+              "ToolTip": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\AktifHesap.cs",
+              "RelativeToolTip": "Banka\\AktifHesap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:02:51.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransfer.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\ITransfer.cs",
+              "RelativeDocumentMoniker": "Banka\\ITransfer.cs",
+              "ToolTip": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\ITransfer.cs",
+              "RelativeToolTip": "Banka\\ITransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:52:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin\\source\\repos\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yasin\\source\\repos\\OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwIwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T14:31:33.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banka.cd",
+              "DocumentMoniker": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\Banka.cd",
+              "RelativeDocumentMoniker": "Banka\\Banka.cd",
+              "ToolTip": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\Banka.cd",
+              "RelativeToolTip": "Banka\\Banka.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-08-12T18:38:35.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YatirimHesabi.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\YatirimHesabi.cs",
+              "RelativeDocumentMoniker": "Banka\\YatirimHesabi.cs",
+              "ToolTip": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\YatirimHesabi.cs",
+              "RelativeToolTip": "Banka\\YatirimHesabi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:46:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MevduatHesabi.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\MevduatHesabi.cs",
+              "RelativeDocumentMoniker": "Banka\\MevduatHesabi.cs",
+              "ToolTip": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\MevduatHesabi.cs",
+              "RelativeToolTip": "Banka\\MevduatHesabi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:39:13.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBankaHesap.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\IBankaHesap.cs",
+              "RelativeDocumentMoniker": "Banka\\IBankaHesap.cs",
+              "ToolTip": "C:\\Users\\Yasin\\source\\repos\\OOP\\Banka\\IBankaHesap.cs",
+              "RelativeToolTip": "Banka\\IBankaHesap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:36:12.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

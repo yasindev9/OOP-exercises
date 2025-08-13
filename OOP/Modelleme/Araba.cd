@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP.Modelleme.Arac">
+    <Position X="4.25" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAAAAABEAAAgRAAAEAAAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>Modelleme\Arac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP.Modelleme.Tasit" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelleme\Tasit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OOP.Modelleme.Motor" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAABAAAARAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Modelleme\Tasit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OOP.Modelleme.Renk" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAgAAAAIAE=</HashCode>
+      <FileName>Modelleme\Tasit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
